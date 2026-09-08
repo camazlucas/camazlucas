@@ -45,9 +45,9 @@ Classificação de perfil socioeconômico a partir dos dados da **Pesquisa de Po
 
 ## 📫 Contato
 
-- 📧 **E-mail:** <!-- seu e-mail aqui -->
-- 💼 **LinkedIn:** <!-- link do seu LinkedIn -->
-- 🎓 **Lattes:** <!-- link do seu currículo Lattes -->
+- 📧 **E-mail:** camazlucas@ufrj.br
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-camaz/
+- 🎓 **Lattes:** https://lattes.cnpq.br/0981477220801322
 
 <!--
 Opcional: estatísticas do GitHub.
