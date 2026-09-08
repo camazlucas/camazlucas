@@ -29,7 +29,7 @@ Antes disso, me formei em **Matemática Aplicada e Computacional** pela UFRRJ �
 **Ferramentas**
 `Git` `Docker` `LaTeX`
 
----
+<!---
 
 ## 📌 Projetos em destaque
 
@@ -39,7 +39,11 @@ Pesquisa de mestrado sobre *Knowledge Graph Question Answering*. O pipeline extr
 ### [Tcc](https://github.com/camazlucas/Tcc)
 Classificação de perfil socioeconômico a partir dos dados da **Pesquisa de Posse e Hábitos de Uso de Equipamentos Elétricos (PPH 2019)**. Comparação entre Árvores de Decisão, SVM e Redes Neurais, com diferentes estratégias de pré-processamento e redução de dimensionalidade.
 
+-->
+
 <!-- Adicione aqui outros projetos conforme forem sendo padronizados -->
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
