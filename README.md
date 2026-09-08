@@ -43,7 +43,7 @@ Classificação de perfil socioeconômico a partir dos dados da **Pesquisa de Po
 
 <!-- Adicione aqui outros projetos conforme forem sendo padronizados -->
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=camazlucas)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
